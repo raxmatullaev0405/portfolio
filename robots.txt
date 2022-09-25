@@ -1,0 +1,8 @@
+User-agent: *
+Allow
+Disallow: /cgi-bin
+Disallow: /private
+Disallow: /admin
+Disallow: /exec
+Disallow: /webstat
+Host: raxmatullaev.uz
